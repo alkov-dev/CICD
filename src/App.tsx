@@ -1,4 +1,3 @@
-import Footer from './components/footer';
 import Magl88 from './components/magl88/magl88';
 import { Raijin } from './components/raijin/raijin';
 import Rn from './components/rn/rn';
