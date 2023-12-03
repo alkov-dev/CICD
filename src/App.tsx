@@ -1,6 +1,7 @@
 import Magl88 from './components/magl88/magl88';
 import { Raijin } from './components/raijin/raijin';
 import Rn from './components/rn/rn';
+import Dinara from "./components/dinara/dinara";
 
 export default function App() {
   return (
@@ -8,8 +9,8 @@ export default function App() {
       <p>App</p>
       <Raijin />
       <Magl88 />
+      <Dinara />
       <Rn />
-      {/* <Footer /> */}
     </main>
   );
 }
